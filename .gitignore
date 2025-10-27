@@ -1,0 +1,14 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+data/
+*.csv
+*.npy
+*.npz
+*.joblib
+*.pkl
